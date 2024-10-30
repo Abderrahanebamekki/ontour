@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">onTour</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoiYWJkb3VibWsiLCJhIjoiY20xZmNjbW90MDNnNjJyc2E2Nnk0MjI3OCJ9.OvRZWJ05BYoP_omAV3jRrA</string>
+</resources>
